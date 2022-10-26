@@ -53,7 +53,7 @@ yarn dev
 ```
 
 #
-##   🏻‍  🏽 Instructors
+## 🫱🏻‍🫲🏽 Instructors
 
 Thanks to the following people who contributed to this project:
 
