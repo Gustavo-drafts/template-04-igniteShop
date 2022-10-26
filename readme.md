@@ -1,42 +1,44 @@
+[![en](https://img.shields.io/badge/lang-en-critical.svg)](https://github.com/gutoo01/template-ignite-dashgo-04/blob/main/readme.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-blue.svg)](https://github.com/gutoo01/template-ignite-dashgo-04/blob/main/readme.pt-br.md)
 
 # **Ignite Shop**
 
 <img src="./ig-shop-preview.png" alt="ignews">
 
-> Aplicação loja de roupas com visualização de conteúdo deslisável(carrosel) e integração de pagamentos online.
+> Clothing store application with scrollable content visualization (carousel) and online payment integration.
 
 #
-### O projeto chegou ao fim em suas tarefas:
+### The project has reached the end of its tasks:
 
-- [x] Exportar layout da aplicação do figma
-- [x] Estilizar usando Stitches
-- [x] Inserindo carrosel
-- [x] Integrar API de pagamentos Stripe
-- [x] Formatar exibição de valores
-- [x] Criar rotas de API
-- [x] Configurar rota checkout no Stripe
-- [x] Implementar botão de Compra
-- [x] Criar página compra efetuada
-- [x] Performando aplicação SSG
-- [x] Definindo SEO
+- [x] Export layout from figma application
+- [x] Stylize using Stitches
+- [x] Inserting carousel
+- [x] Integrate Stripe Payments API
+- [x] Format display of values
+- [x] Create API routes
+- [x] Configure checkout route in Stripe
+- [x] Implement Buy button
+- [x] Create purchase made page
+- [x] Running SSG application
+- [x] Defining SEO
 
 #
-## 💻 Pré-requisitos:
+## 💻 Prerequisites:
 
-Antes de começar, verifique os seguintes requisitos:
+Before starting, check the following requirements:
 
-- Requer versões:  
+- Requires versions:
 
 ```
 "stripe": "^10.8.0",
 "@stitches/react": "^1.2.8"
 ```
 
-## 🚀 Instalando **igniteShop**
+## 🚀 Installing **igniteShop**
 
-Para instalar o **IgniteShop**, siga estas etapas:
+To install **IgniteShop**, follow these steps:
 
-Win, Linux e macOS:
+Win, Linux and macOS:
 
 ```
 npm i
@@ -51,15 +53,15 @@ yarn dev
 ```
 
 #
-## 🫱🏻‍🫲🏽 Instrutores
+##   🏻‍  🏽 Instructors
 
-Agradeço às seguintes pessoas que contribuíram para este projeto:
+Thanks to the following people who contributed to this project:
 
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://github.com/diego3g.png" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://github.com/diego3g.png" width="100px;" alt="Photo by Iuri Silva on GitHub"/><br>
         <sub>
           <b>Diego Fernandes</b>
         </sub>
@@ -67,7 +69,7 @@ Agradeço às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://github.com/maykbrito.png" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+        <img src="https://github.com/maykbrito.png" width="100px;" alt="Photo by Mark Zuckerberg"/><br>
         <sub>
           <b>Mayk Brito</b>
         </sub>
@@ -75,7 +77,7 @@ Agradeço às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://github.com/jakeliny.png" width="100px;" alt="Foto do Steve Jobs"/><br>
+        <img src="https://github.com/jakeliny.png" width="100px;" alt="Photo of Steve Jobs"/><br>
         <sub>
           <b>Jakeliny Gracielly</b>
         </sub>
@@ -84,4 +86,4 @@ Agradeço às seguintes pessoas que contribuíram para este projeto:
   </tr>
 </table>
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Back to top](#project-name)<br>
